@@ -47,6 +47,21 @@ Further check the valid of kubectl
 <img width="1221" alt="Pasted Graphic 29" src="https://github.com/Beckijia/Pepper/assets/143258717/024bfa9d-91a9-403d-99b7-bb214380c898">
 
 3. Add the tag
-   ![image](https://github.com/Beckijia/Pepper/assets/143258717/69c45169-0241-42d1-adcb-6694cb3ace78)
 
+   (1) clone the repo in the host machine.
+   
+   ![Screen Shot 2023-09-09 at 10 37 28 am](https://github.com/Beckijia/Pepper/assets/143258717/0782c0be-7663-4e90-a83a-ad0c3ce4106e)
 
+    (2) Create the tag for task 1
+
+   ![Screen Shot 2023-09-09 at 10 44 04 am](https://github.com/Beckijia/Pepper/assets/143258717/77eb7fc8-2a1e-4c09-8ab8-1c4691030b18)
+
+   (3) Push the tag to the forked repo
+
+   ![Screen Shot 2023-09-09 at 10 44 15 am](https://github.com/Beckijia/Pepper/assets/143258717/ce9811b2-deac-4160-8dec-9635311009c2)
+
+   (4) Check the tag is in the repo
+
+    ![Screen Shot 2023-09-09 at 10 44 25 am](https://github.com/Beckijia/Pepper/assets/143258717/94f78b47-8944-4e0c-ab3f-c4d56fed4806)
+
+   
