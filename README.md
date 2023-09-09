@@ -1,4 +1,4 @@
-#ISEC 6000 Assigenment 1, Task 1
+#ISEC 6000 Assigenment 1, Task 1 
 
 1. Create a Kubernetes Cluster on GKE
    ![image](https://github.com/Beckijia/Pepper/assets/143258717/d90884a3-8d69-45bd-a55f-0956e5677176)
