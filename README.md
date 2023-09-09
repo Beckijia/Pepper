@@ -22,7 +22,7 @@ Install packages needed to use the Kubernetes apt repository
 ￼<img width="1187" alt="Pasted Graphic 13" src="https://github.com/Beckijia/Pepper/assets/143258717/742f1969-7fdd-4540-be1e-7cfcd6d566c1">
 ￼
 
-5. Download Google Could CLI in the local host.
+5. Download and initiate Google Could CLI in the local host, and link kubectl and my GKE cluster.
 <img width="1215" alt="Pasted Graphic 5" src="https://github.com/Beckijia/Pepper/assets/143258717/ce98b90a-bce5-4de9-abce-613f1c403ad4">
 <img width="1057" alt="Pasted Graphic 14" src="https://github.com/Beckijia/Pepper/assets/143258717/d093cfc5-2d01-4b65-b191-fd8ad090fd7f">
 <img width="931" alt="and anonymized stacktraces when crashes are encountered; additional information" src="https://github.com/Beckijia/Pepper/assets/143258717/88fcde72-221b-4f88-9c02-146a38389c16">
