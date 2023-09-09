@@ -40,3 +40,7 @@ Install packages needed to use the Kubernetes apt repository
 <img width="1210" alt="Pasted Graphic 28" src="https://github.com/Beckijia/Pepper/assets/143258717/d4617abc-6514-4cb9-8bb0-df8f9c770831">
 <img width="1221" alt="Pasted Graphic 29" src="https://github.com/Beckijia/Pepper/assets/143258717/024bfa9d-91a9-403d-99b7-bb214380c898">
 
+6. Add the tag
+   ![image](https://github.com/Beckijia/Pepper/assets/143258717/69c45169-0241-42d1-adcb-6694cb3ace78)
+
+
